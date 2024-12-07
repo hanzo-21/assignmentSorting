@@ -42,7 +42,7 @@ public class routine {
         //for AI Labs
         Subject[7] = new subject("AI Labs",true,AILABPeriods);
 
-        classList = integrateClasses (Subject);
+        //classList = integrateClasses (Subject);
 
 
     }
@@ -81,23 +81,14 @@ public class routine {
         //for AI Labs
         Subject[7] = new subject("AI Labs",true,AILABPeriods);
 
-        classList = integrateClasses (Subject);
+        //classList = integrateClasses (Subject);
 
 
     }
 
-    String[][] integrateClasses (subject[] Subject ){
-        String[][] classList  = new String[6][4];
 
-        /*
-        x will traverse through the number of subjects
-        y will travers through the every day of the week and
-         */
-        for(int x  =0 ; x< Subject.length ; x++){
 
-        }
 
-    }
 
 
 
