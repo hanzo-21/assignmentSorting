@@ -1,0 +1,13 @@
+so how do I solve it ?
+I did hard code routine here for every subject is an object
+don't know how to mover forward
+im thinking
+a function to get an array of String for subject assignment list
+need to make sure to remover the repeated stuff
+
+and another for labs in next two days
+
+and finally to display them in j frame
+
+assignment list and routine
+no button for now but let's see what we can do it future
